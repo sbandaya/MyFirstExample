@@ -4,7 +4,7 @@
 using std::endl;
 using std::cin;
 using std::cout;
-//test
+//hanging
 int main()
 {
     cout << "THE FIRST EXAMPLE MATH DISPLAY!\n";
