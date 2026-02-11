@@ -1,0 +1,1 @@
+[![.github/workflows/actions.yaml](https://github.com/sbandaya/MyFirstExample/actions/workflows/actions.yaml/badge.svg?branch=main)](https://github.com/sbandaya/MyFirstExample/actions/workflows/actions.yaml)
